@@ -105,7 +105,8 @@ These features improved model performance significantly.
 * Compared multiple experiments
 * Stored SHAP plots and drift metrics
 
-📸 *(Add MLflow screenshots here)*
+<img width="1920" height="1080" alt="Screenshot 2026-04-23 023158" src="https://github.com/user-attachments/assets/f40e9df4-2635-4ea1-b112-ebe045b739e5" />
+
 
 ---
 
@@ -114,7 +115,8 @@ These features improved model performance significantly.
 * Used SHAP to interpret feature importance
 * Identified key factors influencing loan default
 
-📸 *(Add SHAP plot screenshot here)*
+<img width="1920" height="1080" alt="Screenshot 2026-04-23 023220" src="https://github.com/user-attachments/assets/fe0a0822-a1cc-4b3a-b84a-bca86734931b" />
+
 
 ---
 
@@ -154,6 +156,7 @@ POST /predict
   "default_probability": 0.23
 }
 ```
+<img width="1920" height="1080" alt="Screenshot 2026-04-23 024214" src="https://github.com/user-attachments/assets/b8e5dac0-46b0-42ff-a964-e2a26afdacca" />
 
 ---
 
@@ -193,15 +196,6 @@ project/
 ├── data/
 └── mlruns/
 ```
-
----
-
-## 🚀 Future Improvements
-
-* Hyperparameter tuning using Optuna
-* Streamlit dashboard for visualization
-* Real-time model monitoring
-* CI/CD pipeline
 
 ---
 
